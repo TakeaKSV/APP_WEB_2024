@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid whitesmoke;
+    padding: 3rem;
+    color: wheat;
+}
+
+ul{
+    text-align: center;
+    padding: 2%;
+    margin: 2rem auto;
+    font-size: 3vw;
+    font-style: italic;
+    display: block;
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+}
+
+ul a:hover{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+ul a:active{
+    background-color: rgb(138, 138, 138);
+}
+
+body{
+    background-image: url(img1.jpg);
+    background-size: 100%;
+}
+
+footer{
+    text-align: center;
+    padding: 10rem;
+    color: yellow;
+    position: absolute;
+}
