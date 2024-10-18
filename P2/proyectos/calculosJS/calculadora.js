@@ -29,7 +29,7 @@ function operaciones() {
                 } else {
                     resultado = "No se puede dividir entre cero.";
                     operacionString = "";
-                    alert("q puta mierda estas aciendo estas tontito o eres familiar de un pendejo o le hechas la culpa a alguien mas por tus pendejas acciones estas pendejo")
+                    alert("Ingresa un numero balido hermoza")
                 }
                 break;
             default:
